@@ -53,4 +53,4 @@ Theme colors, fonts and utilities (`text-gradient`, `bg-grid`, marquee) are defi
 
 ## Deployment
 
-Deployed on Vercel as its own project (`developer-portfolio-demo`). Build command `npm run build`, output directory `dist`. No environment variables are needed.
+Deployed on Vercel as its own project (`developer-portfolio-demo`) at https://developer-portfolio-demo-one.vercel.app. Build command `npm run build`, output directory `dist`. No environment variables are needed.
