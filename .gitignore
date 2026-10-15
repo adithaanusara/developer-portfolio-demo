@@ -1,0 +1,17 @@
+node_modules
+dist
+dist-ssr
+*.local
+.env*
+*.log
+.DS_Store
+.vercel
+
+# Original photos can carry EXIF/GPS metadata — only commit the processed WebP exports
+src/assets/*.jpg
+src/assets/*.jpeg
+src/assets/*.heic
+src/assets/certificates/*.jpg
+src/assets/certificates/*.jpeg
+src/assets/certificates/*.heic
+src/assets/certificates/*.png
